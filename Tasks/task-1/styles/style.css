@@ -1,0 +1,27 @@
+header {
+  background-image: url("../images/header_pic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: 500px;
+}
+
+header h1 {
+  padding-top: 200px;
+  font-size: 36px;
+  font-weight: normal;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.centered-down {
+  text-align: center;
+}
+
+#self-img {
+  z-index: 9;
+  margin: 20px; /* for demo purpose  */
+  height: 110px;
+  width: 115px;
+  border-radius: 50%;
+}
